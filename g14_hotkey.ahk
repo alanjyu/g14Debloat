@@ -1,3 +1,5 @@
+; Home, End, PageUp, PageDown keys that G14 lacks
+
 PrintScreen & Left::Home
 
 PrintScreen & Right::End
