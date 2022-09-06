@@ -9,8 +9,7 @@ sc stop ASUSSwitch
 sc stop ASUSSystemAnalysis
 sc stop ASUSSystemDiagnosis
 
-
-rem Delete ASUS services (yet again)
+rem Delete those ASUS services
 sc delete ASUSAppService
 sc delete ASUSLinkNear
 sc delete ASUSLinkNearExt
